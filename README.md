@@ -1,11 +1,3 @@
-Here's the **README file** content for your project along with a **full roadmap** to help you create and complete it successfully.
-
----
-
-## 📘 **README for Vision AI Assistant**
-
----
-
 # Vision AI Assistant
 
 Vision is a smart AI-based voice assistant project built using Python. It can recognize voice commands, perform various system operations, and provide helpful responses like playing YouTube videos, searching Wikipedia, and reporting the weather.
@@ -211,5 +203,4 @@ If you have any issues or suggestions, feel free to create a pull request or rai
 4. **Optional:** Package as an executable file using PyInstaller.
 
 ---
-
-If you'd like any part of this roadmap expanded or want explanations on how to implement specific features, let me know!
+let me know!
